@@ -5,9 +5,10 @@
 I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Freelnancer.;Open+sourse+contributer.)](https://git.io/typing-svg)
-<!--
+
+[![wakatime](https://wakatime.com/badge/user/hammadalee.svg)](https://wakatime.com/hammadalee)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-alee&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-<a align="center">
+<!-- <a align="center">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/naseerx?label=Github%20followers&style=for-the-badge" >
   </a> 
   -->
@@ -49,8 +50,13 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <img src="https://github-readme-stats.vercel.app/api?username=hammad-alee&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
  </div>
 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hammadalee&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Coding Activity](https://wakatime.com/share/@hammadalee/772c08bd-8593-42bc-a0cb-84ff3c11b07c.svg)](https://wakatime.com)
+[![Languages](https://wakatime.com/share/hammadalee/8cb7c8d0-5508-454c-ad3e-c7d4b3c9b25a.png)](https://wakatime.com)
+[![Editors](https://wakatime.com/share/hammadalee/a48dedc7-e45d-4fc0-bb38-c2d84d78e8f8.png)](https://wakatime.com)
 ### My Languages: 🕶️:
 <div align=center>
 <a href="">
