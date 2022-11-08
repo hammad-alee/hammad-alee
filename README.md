@@ -70,7 +70,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hammad-alee&theme=dracula&color=B994E6&bg_color=2B2D3D" />
  
- ## 🐍 Contribution Snake:
+ ## Contribution Snake: 🐍
 ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
 
 
