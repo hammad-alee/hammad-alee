@@ -13,6 +13,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a> 
   -->
   ### How to reach me: 
+  
 <a  href="https://www.fiverr.com/hammad_alee"><img src="https://img.shields.io/badge/Fiverr-00b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white"></a> <a  href="https://www.upwork.com/freelancers/~0189c759f6257e6cb3"><img src="https://img.shields.io/badge/UpWork-6fda44.svg?&style=for-the-badge&logo=upwork&logoColor=white"></a>
 <a href="mailto: hammadd4726@gmail.com">
 <img src="https://img.shields.io/badge/-hammadd4726@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/hammad__alee/">   <img src="https://img.shields.io/badge/@Hammad_Alee-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/hammad-alee/"><img src="https://img.shields.io/badge/Hammad Ali-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
