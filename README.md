@@ -12,6 +12,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/naseerx?label=Github%20followers&style=for-the-badge" >
   </a> 
   -->
+  
   ### How to reach me: 
   
 <a  href="https://www.fiverr.com/hammad_alee"><img src="https://img.shields.io/badge/Fiverr-00b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white"></a> <a  href="https://www.upwork.com/freelancers/~0189c759f6257e6cb3"><img src="https://img.shields.io/badge/UpWork-6fda44.svg?&style=for-the-badge&logo=upwork&logoColor=white"></a>
@@ -27,11 +28,25 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry.
 - 💬 Feel free to discuss with me about.
 
-### :hammer_and_wrench: Languages and Tools :
 
+### Stats Overview : :cyclone:
 
-<div id="icons" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hammadalee&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
+<!-- [![Coding Activity](https://wakatime.com/share/@hammadalee/772c08bd-8593-42bc-a0cb-84ff3c11b07c.svg)](https://wakatime.com)
+[![Languages](https://wakatime.com/share/@hammadalee/90b26816-f29a-4a1a-8aad-a54829c34735.png)](https://wakatime.com)
+[![Editors](https://wakatime.com/share/@hammadalee/a48dedc7-e45d-4fc0-bb38-c2d84d78e8f8.png)](https://wakatime.com) -->
+
+### :hammer_and_wrench: My Languages and Tools :
+<div align=center>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-alee&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Firebase" width="80" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
@@ -43,34 +58,6 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Firebase" width="80" height="60"/>&nbsp;
 </div>
 
-
-### Stats Overview : :cyclone:
-
-
- <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=hammad-alee&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
- </div>
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hammadalee&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Coding Activity](https://wakatime.com/share/@hammadalee/772c08bd-8593-42bc-a0cb-84ff3c11b07c.svg)](https://wakatime.com)
-[![Languages](https://wakatime.com/share/hammadalee/8cb7c8d0-5508-454c-ad3e-c7d4b3c9b25a.png)](https://wakatime.com)
-[![Editors](https://wakatime.com/share/hammadalee/a48dedc7-e45d-4fc0-bb38-c2d84d78e8f8.png)](https://wakatime.com)
-### My Languages: 🕶️:
-<div align=center>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-alee&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</div>
-
- 
-### Github Streak: ❤️‍🔥 
- <div align=center>
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hammad-alee&theme=shades-of-purple)](https://git.io/streak-stats)
-  
-</div>
 
 
 ### Github Activity: 🎆
