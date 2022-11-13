@@ -25,7 +25,7 @@
  </h1>
 </div>
 
- :man_technologist: About Me :
+# 💫 About Me:
 
 I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
@@ -37,12 +37,17 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry.
 - 💬 Feel free to discuss with me about.
 
+# 🙎🏻‍♂️ Profile Summary:
+<p align="center">
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammad-alee&theme=github_dark"/>
+</p>
 
-### Stats Overview : :cyclone:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammad-alee&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+<br>
+
+<!-- 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammad-alee&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <!-- 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=hammadalee&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
