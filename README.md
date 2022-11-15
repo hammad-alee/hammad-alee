@@ -27,7 +27,7 @@
 
 # 💫 About Me:
 
-I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
+I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan <img src="https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif" width="30" style="margin-top=10;">.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Freelnancer.;Open+sourse+contributer.)](https://git.io/typing-svg)
 
