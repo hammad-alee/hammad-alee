@@ -42,7 +42,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammad-alee&theme=github_dark"/>
 </p>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
 
