@@ -43,9 +43,11 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 <!--[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+ <div align=center>
+  
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
-<br>
-
+  
+</div>
 <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammad-alee&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) --> 
 
 <!-- 
@@ -59,6 +61,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div align=center>
   <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-alee&langs_count=800&layout=compact&theme=vue-dark" />
+    <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Firebase" width="80" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
