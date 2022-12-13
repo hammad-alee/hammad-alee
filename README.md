@@ -73,7 +73,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </div>
 
 
-### Github Activity: 🎆
+## Github Activity: 🎆
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hammad-alee&theme=tokyo-night&color=94b9fd&bg_color=273849" />
   
  ## Contribution Snake: 🐍
