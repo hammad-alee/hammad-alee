@@ -48,7 +48,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
   
 </div>
-<!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammad-alee&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) --> 
+<!--[![GitHub Stats](https://github-readme-stats.cyclic.app/api?username=hammad-alee&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) --> 
 
 <!-- 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=hammadalee&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
@@ -74,7 +74,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### Github Activity: 🎆
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hammad-alee&theme=dark&color=59b884&bg_color=273849" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hammad-alee&theme=tokyo-night&color=94b9fd&bg_color=273849" />
   
  ## Contribution Snake: 🐍
  ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
