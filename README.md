@@ -57,7 +57,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Languages](https://wakatime.com/share/@hammadalee/90b26816-f29a-4a1a-8aad-a54829c34735.png)](https://wakatime.com)
 [![Editors](https://wakatime.com/share/@hammadalee/a48dedc7-e45d-4fc0-bb38-c2d84d78e8f8.png)](https://wakatime.com) -->
 
-### :hammer_and_wrench: My Languages and Tools :
+# 🛠 My Languages and Tools:
 <div align=center>
   <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-alee&langs_count=800&layout=compact&theme=vue-dark" />
@@ -73,10 +73,10 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </div>
 
 
-## Github Activity: 🎆
+# 📈 Github Activity:
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hammad-alee&theme=tokyo-night&color=94b9fd&bg_color=273849" />
   
- ## Contribution Snake: 🐍
+ # 🐍 Contribution Snake:
  ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
  
 
