@@ -48,14 +48,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
   
 </div>
-<!--[![GitHub Stats](https://github-readme-stats.cyclic.app/api?username=hammad-alee&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) --> 
 
-<!-- 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hammadalee&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
- -->
-<!-- [![Coding Activity](https://wakatime.com/share/@hammadalee/772c08bd-8593-42bc-a0cb-84ff3c11b07c.svg)](https://wakatime.com)
-[![Languages](https://wakatime.com/share/@hammadalee/90b26816-f29a-4a1a-8aad-a54829c34735.png)](https://wakatime.com)
-[![Editors](https://wakatime.com/share/@hammadalee/a48dedc7-e45d-4fc0-bb38-c2d84d78e8f8.png)](https://wakatime.com) -->
 
 # 🛠 My Languages and Tools:
 <div align=center>
