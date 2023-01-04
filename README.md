@@ -73,7 +73,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   	<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Firebase" width="80" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" style="color:white" title="DART" alt="DART" width="60" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
 </div>
 
