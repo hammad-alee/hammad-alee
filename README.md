@@ -61,7 +61,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;<br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;	
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;	
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
