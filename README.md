@@ -63,6 +63,20 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Firebase" width="80" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Firebase" width="80" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
   </div>
 
 
