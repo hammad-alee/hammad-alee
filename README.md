@@ -43,8 +43,10 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 <!--[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammadalee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->
- <div align=center>
+<div align=center>
+
 [![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hammad-alee&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+
 </div>
 
 # 🛠 My Languages and Tools:
