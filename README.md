@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 	<img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
-</div>	
+</div>	 -->
 <div align="center">
 	<a href="https://www.fiverr.com/hammad_alee">
 		<img src="https://img.shields.io/badge/Fiverr-00b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white">
