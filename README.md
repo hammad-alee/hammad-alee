@@ -1,10 +1,7 @@
 <!-- <div id="header" align="center">
 	<img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
 </div>	 -->
-<h1>
-	Hey There
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 # 💫 About Me:
 
 I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan <img src="https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif" width="30" style="margin-top=10;">.
