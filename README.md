@@ -1,6 +1,22 @@
 <!-- <div id="header" align="center">
 	<img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
 </div>	 -->
+<h1>
+	Hey There
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+# 💫 About Me:
+
+I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan <img src="https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif" width="30" style="margin-top=10;">.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Freelnancer.;Open+sourse+contributer.)](https://git.io/typing-svg)
+
+- :telescope: I’m currently working as a Software Engineer and contributing to Flutter for building hybrid applications.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate With Everyone ❤️.
+- 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry.
+- 💬 Feel free to discuss with me about.
+
 <div align="center">
 	<a href="https://www.fiverr.com/hammad_alee">
 		<img src="https://img.shields.io/badge/Fiverr-00b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white">
@@ -19,23 +35,8 @@
 	</a>  
 	<br>
 	<img src="https://komarev.com/ghpvc/?username=hammad-alee&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
-	<h1>
-		Hey There
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-	</h1>
+	
 </div>
-
-# 💫 About Me:
-
-I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan <img src="https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif" width="30" style="margin-top=10;">.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Freelnancer.;Open+sourse+contributer.)](https://git.io/typing-svg)
-
-- :telescope: I’m currently working as a Software Engineer and contributing to Flutter for building hybrid applications.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate With Everyone ❤️.
-- 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry.
-- 💬 Feel free to discuss with me about.
 
 # 🙎🏻‍♂️ Profile Summary:
 <p align="center">
