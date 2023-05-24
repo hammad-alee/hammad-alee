@@ -15,10 +15,10 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Freelnancer.;Open+sourse+contributer.)](https://git.io/typing-svg)
 
 - :telescope: I’m currently working as a Software Engineer and contributing to Flutter for building hybrid applications.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning back-end development.
 - 💞️ I’m looking to collaborate With Everyone ❤️.
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry.
-- 💬 Feel free to discuss with me about.
+- 💬 Feel free to discuss with me.
 
 <div align="center">
 	<a href="https://www.fiverr.com/hammad_alee">
