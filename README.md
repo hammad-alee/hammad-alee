@@ -90,8 +90,8 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 # 📈 Github Activity:
- # <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hammad-alee&theme=tokyo-night&color=94b9fd&bg_color=273849" />
- <img src="https://github.com/jstrieb/github-stats/raw/master/generated/languages.svg#gh-dark-mode-only" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hammad-alee&theme=tokyo-night&color=94b9fd&bg_color=273849" />
+ <img src="https://github.com/hammad-alee/github-stats/raw/master/generated/languages.svg#gh-dark-mode-only" style="max-width: 100%;">
   
  # 🐍 Contribution Snake:
  ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
