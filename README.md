@@ -95,4 +95,4 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
  # 🐍 Contribution Snake:
  ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
- <img src="https://github.com/hammad-alee/funnyGif/raw/main/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+ 
