@@ -58,7 +58,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 # 📈 Github Activity:
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=hammad-alee&theme=tokyo-night&color=94b9fd&bg_color=273849" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hammad-alee&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   
  # 🐍 Contribution Snake:
