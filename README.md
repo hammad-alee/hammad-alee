@@ -59,8 +59,8 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 # 🛠 My Languages and Tools:
 <div align=center>
 	<a href="">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-alee&langs_count=800&layout=compact&theme=vue-dark" />
-    <br> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-alee&langs_count=800&layout=compact&theme=vue-dark" />
+    <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="DART" alt="DART" width="60" height="80"/>&nbsp;
