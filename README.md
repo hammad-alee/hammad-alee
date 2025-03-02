@@ -8,14 +8,13 @@
 
 # 💫 About Me:
 
-I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan <img src="https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif" width="30" style="margin-top=10;">.
+I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.<img src="https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif" width="30" style="margin-top=10;">.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Freelnancer.;Open+sourse+contributer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Open+sourse+contributer.)](https://git.io/typing-svg)
 
 - :telescope: I’m currently working as a Software Engineer and contributing to Flutter for building hybrid applications.
-- 🌱 I’m currently learning back-end development.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate With Everyone ❤️.
-- 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry.
 - 💬 Feel free to discuss with me.
 
 <div align="center">
