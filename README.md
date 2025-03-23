@@ -20,6 +20,7 @@ I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & K
 - Database & Backend: Firestore, Django, SqLite, Drift, Room, REST APIs
 - Version Control & CI/CD: GitHub, Codemagic, Bitbucket, Xcode Cloud
 
+📫 Let's Connect!
 <div align="center">
 	<a href="https://www.fiverr.com/hammad_alee">
 		<img src="https://img.shields.io/badge/Fiverr-00b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white">
@@ -35,8 +36,7 @@ I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & K
 	</a>  
 	<a href="https://www.linkedin.com/in/hammad-alee/">
 		<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-	</a>  
-	<br>
+	</a> 
 	<img src="https://komarev.com/ghpvc/?username=hammad-alee&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 	<br>
 	<a href="https://www.buymeacoffee.com/hammadalee"> 
