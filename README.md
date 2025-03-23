@@ -36,8 +36,7 @@ I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & K
 	</a>  
 	<a href="https://www.linkedin.com/in/hammad-alee/">
 		<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-	</a> 
-	<img src="https://komarev.com/ghpvc/?username=hammad-alee&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
+	</a>
 	<br>
 	<a href="https://www.buymeacoffee.com/hammadalee"> 
 		<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hammad Alee" />
@@ -47,6 +46,7 @@ I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & K
 </div>
 
 # 🙎🏻‍♂️ Profile Summary:
+<img src="https://komarev.com/ghpvc/?username=hammad-alee&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 <p align="center">
 	<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammad-alee&theme=github_dark"/>
 </p>
