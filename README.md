@@ -14,6 +14,12 @@ I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & K
 - 🏗️ Follow Clean Architecture & MVVM principles for maintainable code
 - 🚀 Optimize performance and enhance app responsiveness
 
+# 💻 Tech Stack:
+- Languages: Dart, Kotlin, Java, Python
+- Frameworks & Tools: Flutter, Django, Firebase, Agora, Dio, Codemagic, Github Actions, Docker
+- Database & Backend: Firestore, Django, SqLite, Drift, Room, REST APIs
+- Version Control & CI/CD: GitHub, Codemagic, Bitbucket, Xcode Cloud
+
 <div align="center">
 	<a href="https://www.fiverr.com/hammad_alee">
 		<img src="https://img.shields.io/badge/Fiverr-00b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white">
