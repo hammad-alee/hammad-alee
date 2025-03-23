@@ -1,14 +1,10 @@
 
-<div align="center">
-	<h1>
-	Hey There
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
 # 💫 About Me:
-
-I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.<img src="https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif" width="30" style="margin-top=10;">.
+<h1>
+		Hey There
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & Kotlin. I love building high-performance, scalable applications and constantly exploring new technologies to enhance user experiences.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Open+sourse+contributer.)](https://git.io/typing-svg)
 
