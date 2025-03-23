@@ -8,13 +8,13 @@ I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & K
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;Xamarin+App+Developer.;Open+sourse+contributer.)](https://git.io/typing-svg)
 
-# 💡 What I Do:
+💡 What I Do:
 - 📱 Develop sleek and efficient mobile applications using Flutter & Kotlin
 - 🔌 Integrate APIs and third-party services for seamless functionality
 - 🏗️ Follow Clean Architecture & MVVM principles for maintainable code
 - 🚀 Optimize performance and enhance app responsiveness
 
-# 💻 Tech Stack:
+💻 Tech Stack:
 - Languages: Dart, Kotlin, Java, Python
 - Frameworks & Tools: Flutter, Django, Firebase, Agora, Dio, Codemagic, Github Actions, Docker
 - Database & Backend: Firestore, Django, SqLite, Drift, Room, REST APIs
