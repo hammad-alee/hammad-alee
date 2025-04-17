@@ -49,7 +49,6 @@ I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & K
 <img src="https://komarev.com/ghpvc/?username=hammad-alee&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 
 ![Flutter CI](https://github.com/hammad-alee/ci_cd_sample/actions/workflows/dart.yml/badge.svg)
-
 <p align="center">
 	<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammad-alee&theme=github_dark"/>
 </p>
